@@ -45,5 +45,5 @@ You can follow my current work on:
 
 > "Great trees grow from stubborn roots. This repo is mine."
 
-— *Gaurav Pandit (Open Book Boss)*
+— *Gaurav Pandit *
 
